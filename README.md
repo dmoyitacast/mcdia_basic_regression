@@ -1,8 +1,8 @@
 # What drives a country's GDP per capita? — Multiple linear regression
 
-🌐 **English** · [Español](README.es.md)
+**English** · [Español](README.es.md)
 
-> 🎓 **Academic project** · MSc in Data Science and Artificial Intelligence (MCDIA) · Afi Escuela · 2025-26
+> **Academic project** · MSc in Data Science and Artificial Intelligence (MCDIA) · Afi Escuela · 2025-26
 > Module: *Basic Regression* · Individual assignment
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)

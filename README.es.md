@@ -1,8 +1,8 @@
 # ¿Qué explica el PIB per cápita de un país? — Regresión lineal múltiple
 
-🌐 [English](README.md) · **Español**
+[English](README.md) · **Español**
 
-> 🎓 **Proyecto académico** · Máster en Ciencia de Datos e Inteligencia Artificial (MCDIA) · Afi Escuela · Curso 2025-26
+>**Proyecto académico** · Máster en Ciencia de Datos e Inteligencia Artificial (MCDIA) · Afi Escuela · Curso 2025-26
 > Módulo: *Basic Regression* · Trabajo individual
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
